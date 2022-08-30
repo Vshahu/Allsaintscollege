@@ -1,0 +1,329 @@
+/* your styles go here */
+
+.w-5-imp{width: 5% !important;}
+.w-10-imp{width: 10% !important;}
+.w-20-imp{width: 20% !important;}
+.w-30-imp{width: 30% !important;}
+.w-40-imp{width: 40% !important;}
+.w-50-imp{width: 50% !important;}
+.w-60-imp{width: 60% !important;}
+.w-70-imp{width: 70% !important;}
+.w-80-imp{width: 80% !important;}
+.w-90-imp{width: 90% !important;}
+.w-100-imp{width: 100% !important;}
+
+
+.m-0-imp{margin:0px !important;}
+.m-5-imp{margin:5px !important;}
+.m-10-imp{margin:10px !important;}
+.m-15-imp{margin:15px !important;}
+.m-20-imp{margin:20px !important;}
+.m-25-imp{margin:25px !important;}
+.m-30-imp{margin:30px !important;}
+
+.mlr-0-imp{margin-left:0px !important; margin-right:0px !important; }
+.mlr-5-imp{margin-left:5px !important; margin-right:5px !important; }
+.mlr-10-imp{margin-left:10px !important; margin-right:10px !important; }
+.mlr-15-imp{margin-left:15px !important; margin-right:15px !important; }
+.mlr-20-imp{margin-left:20px !important; margin-right:20px !important; }
+
+.mtb-0-imp{margin-top:0px !important; margin-bottom:0px !important; }
+.mtb-5-imp{margin-top:10px !important; margin-bottom:5px !important; }
+.mtb-10-imp{margin-top:10px !important; margin-bottom:10px !important; }
+.mtb-15-imp{margin-top:15px !important; margin-bottom:15px !important; }
+.mtb-20-imp{margin-top:20px !important; margin-bottom:20px !important; }
+
+
+.ml-0-imp{margin-left:0px !important;}
+.ml-5-imp{margin-left:5px !important;}
+.ml-10-imp{margin-left:10px !important;}
+.ml-15-imp{margin-left:15px !important;}
+.ml-20-imp{margin-left:20px !important;}
+.ml-25-imp{margin-left:25px !important;}
+.ml-30-imp{margin-left:30px !important;}
+
+
+.mr-0-imp{margin-right:0px !important;}
+.mr-5-imp{margin-right:5px !important;}
+.mr-10-imp{margin-right:10px !important;}
+.mr-15-imp{margin-right:15px !important;}
+.mr-20-imp{margin-right:20px !important;}
+.mr-25-imp{margin-right:25px !important;}
+.mr-30-imp{margin-right:30px !important;}
+
+.mt-0-imp{margin-top:0px !important;}
+.mt-5-imp{margin-top:5px !important;}
+.mt-10-imp{margin-top:10px !important;}
+.mt-15-imp{margin-top:15px !important;}
+.mt-20-imp{margin-top:20px !important;}
+.mt-25-imp{margin-top:25px !important;}
+.mt-30-imp{margin-top:30px !important;}
+
+.mt-0-imp{margin-top:0px !important;}
+.mt-5-imp{margin-top:5px !important;}
+.mt-10-imp{margin-top:10px !important;}
+.mt-15-imp{margin-top:15px !important;}
+.mt-20-imp{margin-top:20px !important;}
+.mt-25-imp{margin-top:25px !important;}
+.mt-30-imp{margin-top:30px !important;}
+
+.mb-0-imp{margin-bottom:0px !important;}
+.mb-5-imp{margin-bottom:5px !important;}
+.mb-10-imp{margin-bottom:10px !important;}
+.mb-15-imp{margin-bottom:15px !important;}
+.mb-20-imp{margin-bottom:20px !important;}
+.mb-25-imp{margin-bottom:25px !important;}
+.mb-30-imp{margin-bottom:30px !important;}
+
+.p-0-imp{padding:0px !important;}
+.p-5-imp{padding:5px !important;}
+.p-10-imp{padding:10px !important;}
+.p-15-imp{padding:15px !important;}
+.p-20-imp{padding:20px !important;}
+.p-25-imp{padding:25px !important;}
+.p-30-imp{padding:30px !important;}
+
+
+.plr-0-imp{padding-left:0px !important; padding-right:0px !important;}
+.plr-5-imp{padding-left:5px !important; padding-right:5px !important;}
+.plr-10-imp{padding-left:10px !important; padding-right:10px !important;}
+.plr-15-imp{padding-left:15px !important; padding-right:15px !important;}
+.plr-20-imp{padding-left:20px !important; padding-right:20px !important;}
+
+
+.ptb-0-imp{padding-top:0px !important; padding-bottom:0px !important; }
+.ptb-5-imp{padding-top:10px !important; padding-bottom:5px !important; }
+.ptb-10-imp{padding-top:10px !important; padding-bottom:10px !important; }
+.ptb-15-imp{padding-top:15px !important; padding-bottom:15px !important; }
+.ptb-20-imp{padding-top:20px !important; padding-bottom:20px !important; }
+
+.pl-0-imp{padding-left:0px !important;}
+.pl-5-imp{padding-left:5px !important;}
+.pl-10-imp{padding-left:10px !important;}
+.pl-15-imp{padding-left:15px !important;}
+.pl-20-imp{padding-left:20px !important;}
+.pl-25-imp{padding-left:25px !important;}
+.pl-30-imp{padding-left:30px !important;}
+
+
+.pr-0-imp{padding-right:0px !important;}
+.pr-5-imp{padding-right:5px !important;}
+.pr-10-imp{padding-right:10px !important;}
+.pr-15-imp{padding-right:15px !important;}
+.pr-20-imp{padding-right:20px !important;}
+.pr-25-imp{padding-right:25px !important;}
+.pr-30-imp{padding-right:30px !important;}
+
+
+.pt-0-imp{padding-top:0px !important;}
+.pt-5-imp{padding-top:5px !important;}
+.pt-10-imp{padding-top:10px !important;}
+.pt-15-imp{padding-top:15px !important;}
+.pt-20-imp{padding-top:20px !important;}
+.pt-25-imp{padding-top:25px !important;}
+.pt-30-imp{padding-top:30px !important;}
+
+
+.pb-0-imp{padding-bottom:0px !important;}
+.pb-5-imp{padding-bottom:5px !important;}
+.pb-10-imp{padding-bottom:10px !important;}
+.pb-15-imp{padding-bottom:15px !important;}
+.pb-20-imp{padding-bottom:20px !important;}
+.pb-25-imp{padding-bottom:25px !important;}
+.pb-30-imp{padding-bottom:30px !important;}
+
+.js-college{
+    bottom: 0;
+    left: 0%;
+    right: 0%;
+    margin: auto;
+    text-align: center;
+    background: #f8f9fad4;
+    padding: 10px;
+}
+.textHistory{
+	    background: #eaeaeaab;
+    padding: 4px 20px;
+    text-transform: UPPERCASE;
+    border: 2px dotted #eaeaea;
+	color: #467fbf;
+}
+.bg-eaeaea{background: #eaeaea !important;}
+.bg-222931{background: #ffffff !important;}
+.dropdown-menu {
+    right: 0;
+    left: auto;
+}
+.dropdown-menu{
+top: 98%;
+}
+
+.principal-msg{
+ 	padding: 20px 63px;
+    background: white;
+    border-radius: 0 40px;
+    background: white;
+    border-radius: 0 40px;
+    box-shadow: 0 3px 8px #0f0f0f;
+}
+.shadow-1{box-shadow: 0 3px 8px #0f0f0f;}
+
+.course-box{
+	outline: 1px solid #bfbfbf;
+}
+
+.course-box .panel-heading{
+	background: white;
+    margin-bottom: 0px;
+    padding: 8px 8px 5px;
+    border-bottom: 1px solid #bfbfbf;
+}
+
+.course-box .panel-heading h3{
+	margin-bottom: 0px;
+    padding: 0;
+}
+.course-box .panel-heading h3::after{
+	content: none;
+}
+.course-box ul{
+	  padding: 5px 0px;	  
+}
+.course-box ul li a{
+	  padding: 3px 10px;
+}
+
+
+/*-----I CAL ----*/
+#ical{width:100%; height:auto; margin:auto;
+box-sizing: border-box;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+-ms-box-sizing: border-box;
+-o-box-sizing: border-box;
+border:1px solid #ccc;
+padding:4px;
+}
+#ical .cal_head{
+background: #467fbf !important;
+color: #fff;
+padding: 10px;
+display: block;
+text-align: center;
+box-sizing: border-box;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+-ms-box-sizing: border-box;
+-o-box-sizing: border-box;
+position: relative;
+border-radius: 2px 2px 0 0;
+}
+.icaltable {
+border-collapse: separate;
+border-width: 0px 0px 1px 1px;
+font-size: 20px;
+width: 100%;
+height:auto;
+background:#f8f8f8;
+}
+.icaltable td, th {
+width: 14.28%;
+text-align: center;
+vertical-align: middle;
+background: url(//static.allsaintscollege.org/img/cells.png) repeat scroll 0% 0% #F8F8F8;
+color: #444;
+position: relative;
+font-size: 13px;
+height: 24px;
+padding: 5px 0px;
+border: 1px solid #ddd;
+}
+.icaltable th {
+height: 30px;
+font-weight: bold;
+font-size: 14px;
+color: #333;
+}
+.icaltable td:hover, .icaltable th:hover {
+background-position: 0px -81px;
+color: #222;
+}
+.icaltable td.date_has_event {
+background-position: 162px 0px;
+color: white;
+background:#467fbf;
+}
+.icaltable td.date_has_event:hover {
+background-position: 162px -81px;
+}
+.icaltable td.padding {
+}
+.icaltable td.today {
+background-position: 81px 0px;
+color: white;
+background:#555555;
+}
+.icaltable td.today:hover {
+background-position: 81px -81px;
+}
+.events {
+position: relative;
+}
+.events ul {left: -146px !important;}
+.events ul {
+text-align: left;
+position: absolute;
+display: none;
+z-index: 1000;
+padding: 15px;
+background: #E7ECF2 url(//static.allsaintscollege.org/img/popup.png) no-repeat;
+color: white;
+border: 1px solid white;
+font-size: 15px;
+width: 200px;
+-moz-border-radius: 3px;
+-khtml-border-radius: 3px;
+-webkit-border-radius: 3px;
+-border-radius: 3px;
+list-style: none;
+color: #444444;
+-webkit-box-shadow: 0px 8px 8px #333;
+}
+.events li {
+padding-bottom: 5px;
+}
+.events li span {
+float: left;
+font-size: 14px;
+text-align: justify;
+color: #555;
+margin-right: 5px;
+}
+.events li span.title {
+font-weight: bold;
+color: #222;
+}
+#icalprev{
+position:absolute;
+left: 10px;
+cursor: pointer;
+}
+#icalnext{
+position:absolute;
+right: 10px;
+cursor: pointer;
+}
+#currentmonth {
+padding: 0;
+text-align: center;
+font-size: 1.07692em;
+text-transform: uppercase;
+font-weight: bold;
+}
+#currentyear{
+padding: 0;
+text-align: center;
+font-size: 1em;
+font-weight: bold;
+}
+/*----END---I CAL----*/
